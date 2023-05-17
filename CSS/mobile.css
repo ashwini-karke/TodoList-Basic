@@ -1,0 +1,43 @@
+@media screen and (max-device-width: 767px) {
+    .txt-area {
+        margin: 60px 0px 14px 13px;
+        display: flex;
+        flex-direction: row;
+    }
+    #txt-input {
+        width: 200px;
+    }
+    .outer2 {
+        margin: 0px 0px 0px 0px;
+    }
+    #paginated-list {
+        margin: 0px 0px;
+    }
+    .container {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    #paginated-list {
+       
+        padding: 0px;
+    }
+    .button-field2 {
+       
+        margin-left: 0px;
+    }
+    .submit-button {
+        margin: 0px;
+    }
+    .dynamic-msg p {
+        font-size: 15px;
+    }
+    .pagination-container {
+        display: none;
+        margin: 25px 0px;
+    }
+    #pagination-numbers
+    {
+        display: flex;
+        flex-direction: row;
+    }
+}

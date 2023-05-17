@@ -1,0 +1,20 @@
+@media screen and (min-device-width: 768px) and (max-device-width: 1023px)
+{
+
+    #txt-input {
+        width: 500px;
+    }
+    .txt-area {
+        margin: 30px 100px 6px 100px;
+        display: flex;
+        flex-direction: row;
+    }
+    .submit-button {
+        margin: 0px;
+    }
+    #pagination-numbers
+    {
+        display: flex;
+        flex-direction: row;
+    }
+}
